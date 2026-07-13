@@ -20,14 +20,14 @@ const heroStats = [
   { value: '₹5,500+ Cr', label: 'Standalone turnover, FY 2025–26' },
   { value: '₹9,000+ Cr', label: 'Combined Group business volume' },
   { value: '350+', label: 'Distributors nationwide' },
-  { value: '100+', label: 'Select Mobiles stores — AP & Telangana' },
+  { value: '100+', label: 'Celekt Mobiles stores — AP & Telangana' },
 ]
 
 const glanceStats = [
   { value: '₹5,500+ Cr', label: 'Standalone turnover of Dashmobiles Private Limited in FY 2025–26' },
   { value: '₹9,000+ Cr', label: 'Combined business volume of the Group' },
   { value: '350+', label: 'A growing B2B distribution ecosystem of distributors' },
-  { value: '100+', label: 'Select Mobiles retail stores across Andhra Pradesh & Telangana' },
+  { value: '100+', label: 'Celekt Mobiles retail stores across Andhra Pradesh & Telangana' },
 ]
 
 const categories = [

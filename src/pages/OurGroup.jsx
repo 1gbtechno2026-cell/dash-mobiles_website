@@ -103,9 +103,9 @@ function OurGroup() {
         <div className="container retail-strength">
           <Reveal className="section-head">
             <span className="eyebrow eyebrow--light">Our Retail Strength</span>
-            <h2>100+ Select Mobiles Stores</h2>
+            <h2>100+ Celekt Mobiles Stores</h2>
             <p>
-              The Group has a strong physical retail footprint through more than 100 Select Mobiles
+              The Group has a strong physical retail footprint through more than 100 Celekt Mobiles
               stores across Andhra Pradesh and Telangana. This extensive store network strengthens the
               Group&rsquo;s connection with regional markets and provides valuable insight into changing
               consumer preferences, product demand and technology trends.

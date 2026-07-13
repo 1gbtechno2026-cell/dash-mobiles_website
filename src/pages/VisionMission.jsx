@@ -29,7 +29,7 @@ const whyPartner = [
   { title: 'Strong Distribution Network', text: 'Approximately 350+ distributors supporting market reach and B2B connectivity.' },
   { title: 'Multi-Category Portfolio', text: 'From smartphones and laptops to wearables, imaging products, audio devices and next-generation smart technology.' },
   { title: 'North and South India Presence', text: 'Strong business connectivity across major markets in both regions.' },
-  { title: 'Retail Market Strength', text: 'A network of more than 100 Select Mobiles stores across Andhra Pradesh and Telangana.' },
+  { title: 'Retail Market Strength', text: 'A network of more than 100 Celekt Mobiles stores across Andhra Pradesh and Telangana.' },
   { title: 'Experienced Leadership', text: 'A leadership group focused on scale, execution, partnerships and long-term business development.' },
 ]
 
