@@ -1,0 +1,18 @@
+.logo {
+  display: inline-flex;
+  align-items: center;
+}
+
+.logo-mark {
+  display: block;
+  height: 36px;
+  width: auto;
+}
+
+.logo--lg .logo-mark {
+  height: 48px;
+}
+
+.logo--sm .logo-mark {
+  height: 28px;
+}

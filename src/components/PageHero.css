@@ -1,0 +1,20 @@
+.page-hero {
+  background: var(--ink);
+  padding: 64px 0 56px;
+}
+
+.page-hero h1 {
+  margin-top: 16px;
+  color: #ffffff;
+  font-size: clamp(32px, 5vw, 52px);
+  line-height: 1.08;
+  max-width: 820px;
+}
+
+.page-hero p {
+  margin-top: 18px;
+  color: #a9a9b1;
+  font-size: 17px;
+  line-height: 1.7;
+  max-width: 640px;
+}

@@ -1,0 +1,43 @@
+.cta-banner {
+  background: var(--ink);
+  padding: 72px 0;
+}
+
+.cta-banner-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.eyebrow--light {
+  color: var(--accent-on-dark);
+}
+
+.eyebrow--light::before {
+  background: var(--accent-on-dark);
+}
+
+.cta-banner h2 {
+  color: #ffffff;
+  font-size: clamp(24px, 3vw, 34px);
+  max-width: 620px;
+  margin-top: 14px;
+  line-height: 1.16;
+}
+
+.cta-banner p {
+  margin-top: 14px;
+  color: #a9a9b1;
+  max-width: 560px;
+  line-height: 1.7;
+  font-size: 15.5px;
+}
+
+.cta-banner-actions {
+  display: flex;
+  gap: 12px;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}

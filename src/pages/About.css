@@ -1,0 +1,53 @@
+.about-lede-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  max-width: 780px;
+}
+
+.pillar-card h3 {
+  font-family: var(--sans);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--accent-dark);
+}
+
+.pillar-card p {
+  margin-top: 12px;
+  font-size: 14.5px;
+  line-height: 1.7;
+  color: var(--muted);
+}
+
+.growth-story .section-head {
+  margin-bottom: 32px;
+}
+
+.growth-copy {
+  max-width: 760px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.growth-copy p {
+  color: #b3b3ba;
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+.growth-lines {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-left: 2px solid var(--accent);
+  padding-left: 20px;
+}
+
+.growth-lines li {
+  font-family: var(--display);
+  font-size: 17px;
+  color: #ffffff;
+  line-height: 1.4;
+}
