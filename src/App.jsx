@@ -30,7 +30,7 @@ function App() {
       <ScrollToTop />
       <Navbar />
       <main>
-        <AnimatePresence mode="wait" initial={false}>
+        <AnimatePresence mode="sync" initial={false}>
           <Routes location={location} key={location.pathname}>
             <Route path="/" element={<PageTransition><Home /></PageTransition>} />
             <Route path="/about" element={<PageTransition><About /></PageTransition>} />

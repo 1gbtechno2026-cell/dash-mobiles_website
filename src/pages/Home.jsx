@@ -139,7 +139,7 @@ function Home() {
             ))}
           </div>
           <Reveal delay={0.2}>
-            <Link to="/what-we-do" className="btn btn--ink-outline home-more">Explore Our Full Portfolio</Link>
+            <Link to="/portfolio" className="btn btn--ink-outline home-more">Explore Our Full Portfolio</Link>
           </Reveal>
         </div>
       </section>

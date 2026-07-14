@@ -17,14 +17,14 @@ import oneGbKartLogo from '../assets/brands/1gb-kart-logo.jpg'
 import oneGbKartIcon from '../assets/brands/1gb-kart-icon.png'
 import oneGbKartIconCard from '../assets/brands/1gb-kart-icon-card.jpg'
 import unicornLogo from '../assets/brands/unicorn-logo.jpg'
-import perfectTelelinksLogo from '../assets/brands/perfect-telelinks-logo.jpg'
-import transparentDealsLogo from '../assets/brands/transparent-deals-logo.jpg'
-import kikakuEximLogo from '../assets/brands/kikaku-exim-logo.jpg'
-import phonehiveLogo from '../assets/brands/phonehive-logo.jpg'
-import tranzfoneLogo from '../assets/brands/tranzfone-logo.jpg'
+import perfectTelelinksLogo from '../assets/brands/PERFECTTELILINKS_LOGO.jpg'
+import transparentDealsLogo from '../assets/brands/TRANSPARETN_LOGO.jpg'
+import kikakuEximLogo from '../assets/brands/KIKAKU_LOGO.jpg'
+import phonehiveLogo from '../assets/brands/PHONEHIVE_LOGO.jpg'
+import tranzfoneLogo from '../assets/brands/TRANZFONE_LOGO.jpg'
 import celektLogo from '../assets/brands/celekt-logo.jpg'
 import oneplusLogo from '../assets/brands/oneplus-logo.png'
-import dashmobilesLogo from '../assets/brands/dashmobiles-logo.png'
+import dashmobilesLogo from '../assets/brands/DASHMOBILES_FOR_PORTFOLIO.png'
 import distributionEcosystemImg from '../assets/brands/distribution-ecosystem.png'
 import './Portfolio.css'
 
@@ -871,6 +871,7 @@ function Portfolio() {
               as="h1"
               className="pf-cine-headline"
               lines={['BUILT FOR SCALE.', 'DRIVEN BY TECHNOLOGY.', 'CONNECTED', 'ACROSS INDIA.']}
+              animateOnMount
             />
             <motion.p
               className="pf-cine-sub"

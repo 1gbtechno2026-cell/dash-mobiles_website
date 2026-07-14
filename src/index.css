@@ -43,6 +43,10 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+main {
+  position: relative;
+}
+
 img {
   max-width: 100%;
   display: block;

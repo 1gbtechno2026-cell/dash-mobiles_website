@@ -9,9 +9,10 @@ function useLenis({ disabled = false } = {}) {
     if (disabled) return undefined
 
     const lenis = new Lenis({
-      duration: 1.15,
-      easing: (t) => 1 - Math.pow(1 - t, 3),
+      duration: 1.4,
+      easing: (t) => (t === 1 ? 1 : 1 - Math.pow(2, -10 * t)),
       smoothWheel: true,
+      wheelMultiplier: 0.9,
     })
     lenisRef.current = lenis
 

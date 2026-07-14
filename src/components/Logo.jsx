@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import dashmobilesLogo from '../assets/brands/dashmobiles-logo.png'
+import dashmobilesLogo from '../assets/brands/DASHMOBILES_LOGO.png'
 import './Logo.css'
 
 function Logo({ size = 'md', onClick }) {
